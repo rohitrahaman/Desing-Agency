@@ -1,1 +1,1 @@
-https://shimmering-eclair-993195.netlify.app/testimonial
+https://shimmering-eclair-993195.netlify.app/
