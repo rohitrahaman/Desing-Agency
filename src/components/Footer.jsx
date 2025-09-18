@@ -82,7 +82,7 @@ export default function Footer() {
       </div>
       <footer className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2 bg-neutral text-neutral-content p-10 text-white flex-row sm:flex-col px-36 mt-20">
         <aside>
-          <img className="h-20 w-auto" src="/public/da.png" alt="" />
+          <img className="h-20 w-auto" src="da.png" alt="" />
           <h2 className="text-4xl font-semibold tracking-tight text-white">
             Desing Agency
           </h2>
